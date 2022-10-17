@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilusha-Madushan</h1>
 <h3 align="center">A passionate fullstack developer and Data Science Engineer from Sri Lanka</h3>
-<p align="right"><img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
+<p align="right"><img align="right" alt="Coding" width="400" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilusha-madushan&label=Profile%20views&color=0e75b6&style=flat" alt="dilusha-madushan" /> </p>
 
 - 🔭 I’m currently working on [Insurepro](https://github.com/Pahan99/insurepro)
