@@ -3,11 +3,11 @@
 <p align="right"><img align="right" alt="Coding" width="400" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilusha-madushan&label=Profile%20views&color=0e75b6&style=flat" alt="dilusha-madushan" /> </p>
 
-- 🔭 I’m currently working on [Insurepro](https://github.com/Pahan99/insurepro)
+- 🔭 I’m currently working on [Blockchain-Framework](https://github.com/Blockchain-Framework)
 
-- 🌱 I’m currently learning **Flutter , Next js**
+- 🌱 I’m currently learning **blockchain, web3 and anomaly analysis with ML**
 
-- 💬 Ask me about **Java , Python , Spring Boot and PHP**
+- 💬 Ask me about **Java , Python , Spring Boot PHP and java script**
 
 - 📫 How to reach me **dilushamadushan9912@gmail.com**
 
