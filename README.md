@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dilushamadushan9912@gmail.com**
 
-- ⚡ Fun fact **I am**
+- ⚡ Fun fact **I can code in multiple languages, but I still occasionally Google syntax!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
