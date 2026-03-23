@@ -3,9 +3,9 @@
 <p align="right"><img align="right" alt="Coding" width="400" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilusha-madushan&label=Profile%20views&color=0e75b6&style=flat" alt="dilusha-madushan" /> </p>
 
-- 🔭 I’m currently working at CML Insights Inc. as Machine Learning Engineer.
+- 🔭 I’m currently working at WSO2 as Software Engineer.
 
-- 💬 Ask me about **Java , Python , Spring Boot PHP and java script**
+- 💬 Ask me about **Java , Python , GO, PHP and java script**
 
 - 📫 How to reach me **dilushamadushan9912@gmail.com**
 
