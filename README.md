@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working at **WSO2** as a Software Engineer
-- 🌱 Passionate about **Web Development** and **Machine Learning**
+- 🌱 Passionate about **Softwear Development** and **Machine Learning**
 - 💬 Ask me about **Java, Python, Go, PHP, and JavaScript**
 - 📫 Reach me at **dilushamadushan9912@gmail.com**
 - ⚡ Fun fact: *I can code in multiple languages, but I still occasionally Google syntax!*
@@ -23,10 +23,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/dilusha-madushan" target="_blank">
+  <a href="www.linkedin.com/in/dilusha-madushan-b00071210" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/dilusha.madushan" target="_blank">
+  <a href="https://www.facebook.com/Dilusha.Ya.99/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://kaggle.com/uom_190478e" target="_blank">
@@ -103,8 +103,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilusha-madushan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilusha-madushan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=dilusha-madushan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dilusha-madushan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
