@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **WSO2** as a Software Engineer
+- 🔭 Currently working at **WSO2** as a Software Engineer: AgentID Management in IAM.
 - 🌱 Passionate about **Softwear Development** and **Machine Learning**
 - 💬 Ask me about **Java, Python, Go, PHP, and JavaScript**
 - 📫 Reach me at **dilushamadushan9912@gmail.com**
@@ -108,5 +108,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilusha-madushan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=dilusha-madushan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
